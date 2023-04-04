@@ -1,3 +1,2 @@
-def a(x,y):
-   total = x + y
-   return total
+def minha_funcao():
+   2 + 2 == 4
